@@ -1,0 +1,21 @@
+,Value,x_axis,y_axis
+0,0.9319836797292763,LoanOriginalAmount,MonthlyLoanPayment
+1,0.5164431774216957,DelinquenciesLast7Years,TradesNeverDelinquent (percentage)
+2,0.46889900184598293,TradesNeverDelinquent (percentage),Credit_Score_Avg
+3,0.45876059134081615,CurrentDelinquencies,TradesNeverDelinquent (percentage)
+4,0.45435002294709487,LenderYield,Credit_Score_Avg
+5,0.45325693113429055,AvailableBankcardCredit,Credit_Score_Avg
+6,0.3904761451110323,MonthlyLoanPayment,LP_InterestandFees
+7,0.38740934257969883,MonthlyLoanPayment,Investors
+8,0.3822678384141367,ProsperPrincipalBorrowed,LoanOriginalAmount
+9,0.3821266901253209,LP_InterestandFees,Investors
+10,0.3800926465635783,LoanOriginalAmount,Investors
+11,0.3777769220085513,CurrentDelinquencies,DelinquenciesLast7Years
+12,0.36845004621056243,CurrentDelinquencies,Credit_Score_Avg
+13,0.36635854516869903,LoanOriginalAmount,LP_InterestandFees
+14,0.34093928179603133,LenderYield,AvailableBankcardCredit
+15,0.3408744514783809,LoanOriginalAmount,Credit_Score_Avg
+16,0.34054852175673017,CurrentDelinquencies,AmountDelinquent
+17,0.3397238140904819,ProsperPrincipalBorrowed,MonthlyLoanPayment
+18,0.33892745773451693,Term,LoanOriginalAmount
+19,0.3284551073492601,LenderYield,LoanOriginalAmount
